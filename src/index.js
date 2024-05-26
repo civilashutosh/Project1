@@ -18,7 +18,7 @@ const options = {
     },
     servers: [
       {
-        url: "https://ab-get-youtube-subscribers.onrender.com",
+        url: "https://project1-2-iwor.onrender.com",
       },
       {
         url: "http://localhost:3000/",
