@@ -31,8 +31,7 @@ const options = {
 const specs = swaggerJsDoc(options);
 app.use("/", swaggerUI.serve, swaggerUI.setup(specs));
 
-// to configure the env variable path
-//dotenv.config({ path: "./.env" });
+
 
 // Parse JSON bodies (as sent by API clients)
 app.use(express.json());
