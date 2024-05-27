@@ -18,7 +18,7 @@ const options = {
     },
     servers: [
       {
-        url: "https://project1-2-iwor.onrender.com",
+        url: "https://project1-3-iwor.onrender.com",
       },
       {
         url: "http://localhost:3000/",
